@@ -40,6 +40,8 @@ Good Toy 2024 Award: Sankakuyama was honored with the prestigious Good Toy 2024 
 Physical Experience: While this viewer visualizes the mathematical "Metamorphosis," nothing beats the tactile warmth and satisfying "click" of the real wooden pieces forming a tetrahedron.
 How to Get One: The physical puzzle is available for order at the Tokyo Toy Museum (Museum Shop). It is highly recommended for puzzle enthusiasts and collectors who appreciate fine Japanese craftsmanship.
 
+<img src="real_sankakuyama_puzzle.JPG" width="500" alt="Sankakuyama Physical Puzzle">
+
 License
 This project is licensed under the MIT License.
 Author
