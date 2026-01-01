@@ -34,6 +34,12 @@ Background
 This project was born from a collaborative AI development effort to solve and visualize physical wooden puzzles. By proving that the difficult 3D stacking of "Sankakuyama" and the 2D expansion of a Hex grid share the same "56-cell" logic, we have created an interactive experience that makes complex spatial mathematics accessible and fun to watch.
 Visit https://note.com/sankakuyama
 
+The Award-Winning Physical Puzzle: Sankakuyama
+The digital experience in this repository is a tribute to the physical Sankakuyama Puzzle, a masterfully crafted wooden 3D puzzle from Japan.
+Good Toy 2024 Award: Sankakuyama was honored with the prestigious Good Toy 2024 award, recognizing its excellence in design, playability, and artistic value.
+Physical Experience: While this viewer visualizes the mathematical "Metamorphosis," nothing beats the tactile warmth and satisfying "click" of the real wooden pieces forming a tetrahedron.
+How to Get One: The physical puzzle is available for order at the Tokyo Toy Museum (Museum Shop). It is highly recommended for puzzle enthusiasts and collectors who appreciate fine Japanese craftsmanship.
+
 License
 This project is licensed under the MIT License.
 Author
